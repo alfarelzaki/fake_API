@@ -7,5 +7,19 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "cardData": [
+    {
+        "title": "Alfarel Zaki",
+        "desc": "FrontEnd Developer"
+    },
+    {
+        "title": "Ahmad Rifal",
+        "desc": "FrontEnd Developer"
+    },
+    {
+        "title": "Fariz Albab",
+        "desc": "Fullstack Developer Kae"
+    }
+  ]
 }
